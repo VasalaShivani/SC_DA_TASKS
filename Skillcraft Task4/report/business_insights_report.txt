@@ -1,0 +1,53 @@
+
+BUSINESS INSIGHTS REPORT - ONLINE STORE MARKETING ANALYSIS
+============================================================
+Prepared by: Vasala Shivani
+Date: 2026-06-27
+
+1. DATASET OVERVIEW
+-------------------
+Total Transactions : 2259
+Total Revenue      : $3206857.83
+Average Spend      : $1419.59
+
+2. SALES BY PAYMENT METHOD (MARKETING CHANNEL)
+-----------------------------------------------
+Payment_method
+PayPal    1493127.64
+Card       930147.18
+Other      783583.01
+
+3. SALES BY CUSTOMER SEGMENT
+-----------------------------
+Segment
+Basic       1461581.14
+Silver       607833.04
+Platinum     572386.89
+Gold         304477.43
+Missing      260579.33
+
+4. SALES BY GENDER
+------------------
+Gender
+Female    1733893.09
+Male      1438001.72
+
+5. REFERAL IMPACT
+-----------------
+Referal
+0.0    1061705.81
+1.0    1952487.68
+
+6. BUDGET RECOMMENDATIONS
+--------------------------
+- INCREASE budget for: PayPal (highest revenue channel)
+- FOCUS on: Basic (highest spending segment)
+- TARGET: Referral customers (they spend more)
+- AGE GROUP to target: 35-50 (highest spending group)
+
+7. CONCLUSION
+-------------
+Based on EDA, the store should focus marketing budget on
+the top performing payment channels and customer segments.
+Referral programs show strong ROI and should be expanded.
+============================================================
